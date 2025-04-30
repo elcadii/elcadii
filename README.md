@@ -8,7 +8,6 @@ Credits: [Jaye Hernandez](https://github.com/jayehernandez)
 
 Last Edited on: 25/11/2020
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## I'm a Full-Stack Devloper Student
 
@@ -78,3 +77,5 @@ Last Edited on: 25/11/2020
 
 [instagram]: https://www.instagram.com/diplo.spy
 [linkedin]: https://www.linkedin.com/in/hichame-ait-benalla/
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
